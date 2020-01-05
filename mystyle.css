@@ -1,0 +1,27 @@
+p {
+    margin-left: 200px;
+    background-color: rgb(207, 107, 107);
+    padding: 10px;
+    text-indent: -5em;
+    text-justify: newspaper;
+    text-align: center;
+    color: rgb(170, 26, 26);
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color: rgb(241, 28, 28);
+    background-color: none;
+    margin-left: 100px;
+    font-size: xx-large;
+    text-align: center;
+    letter-spacing: 0.5em;
+    word-spacing: 1em;
+}
+
+div {
+    width: 500px;
+}
